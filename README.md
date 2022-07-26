@@ -1,4 +1,4 @@
-## E-commerce Sample Project
+## Delivery App Sample Project
 
 Steps to run
 
